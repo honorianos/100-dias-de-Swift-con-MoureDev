@@ -366,8 +366,3 @@ repeat{
     print("El numero aleatorio: \(numeroAleatorio)")
     
 }while(numeroAleatorio != 8)
-
-
-
-
-
