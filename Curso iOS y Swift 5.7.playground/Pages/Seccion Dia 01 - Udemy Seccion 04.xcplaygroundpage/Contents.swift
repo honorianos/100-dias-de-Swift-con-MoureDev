@@ -209,3 +209,30 @@ if !condicion {
 }
 
 
+// TODO: String
+
+let stringMessage = "Bienvenido"
+
+let multipleString = """
+bienbenido asdadsa
+soy otra linea
+"""
+
+let stringVacio = String()
+let stringVacio2doModo = ""
+
+
+// TODO: Caracteres unidad minima de un String
+
+let unicodeCaracter: Character = "\u{24}"
+let unicodeCaracterSinInferencia  = "\u{24}"
+
+// caracteres especiales  (\n\r\t\0\')
+ let myEmoji = "🤪"
+
+
+
+
+
+
+
